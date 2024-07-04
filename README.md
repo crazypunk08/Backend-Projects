@@ -9,10 +9,13 @@ Built a Simple Chat Application using Express js and Mongodb
    ```bash
    git clone https://github.com/crazypunk08/Backend-tools
    cd your-repo-name
+   
 2.Install Dependencies
-  npm install
+   ```bash
+   npm install
 
-3.Start the server 
+3.Start the server
+   ```bash
   Go to terminal ,make sure you are in the correct directoy
   nodemon index.js
 
